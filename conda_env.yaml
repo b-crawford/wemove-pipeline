@@ -1,0 +1,19 @@
+name: wemove-pipeline
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - plotly
+  - matplotlib
+  - dash
+  - pip
+  - jupyter
+  - pre-commit
+  - requests
+  - black
+  - pip:
+    - pyjanitor
+    - dash-bootstrap-components
