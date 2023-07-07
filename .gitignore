@@ -127,8 +127,5 @@ target/
 # exclude data from source control by default
 /data/
 
-# exclude dashboard server side data
-/dashboard/server_side_data/
-
 # exceptions
-!dashboard/config_data.json
+!tests/test_lambda_event.json

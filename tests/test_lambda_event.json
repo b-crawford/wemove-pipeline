@@ -1,0 +1,14 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "weca-upload-v2/driver-shifts"
+          },
+          "object": {
+            "key": "4th Driver Shifts quicksight upload.csv"
+          }
+        }
+      }
+    ]
+  }
